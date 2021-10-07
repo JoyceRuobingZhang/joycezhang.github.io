@@ -234,6 +234,8 @@ p {
   margin-left: 2rem;
   font-family: 'Times New Roman', Times, serif;
   font-size: 1.3rem;
+  padding: 1.25rem;
+  padding-left: 2.5rem;
 }
 
 .video {
